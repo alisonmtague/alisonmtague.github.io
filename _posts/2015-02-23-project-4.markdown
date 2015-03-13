@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2015-01-12
+img: toytown.png
+alt: image-alt
+project-date: February 2015
+description: Toy Town is an app I created on Rails. It has full CRUD functionality. Users sign in with Twitter if they would like to create a Wishlist or vote on their favorite toys. This is a website that will be used for a small business in my hometown. You can check out the code <a href="https://github.com/alisonmtague/ToyTown">here</a>.
+
+
+---

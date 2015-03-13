@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison Tague</title>
+    <description>Hi, I&#39;m Alison Tague, a full-stack web developer. This is my portfolio with past projects I&#39;ve worked on and a little bit about me.</description>
+    <link>https://alisontague.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 12 Mar 2015 20:51:36 -0400</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2015 20:51:36 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Project 4</title>
+        <description>Toy Town is an app I created on Rails. It has full CRUD functionality. Users sign in with Twitter if they would like to create a Wishlist or vote on their favorite toys. This is a website that will be used for a small business in my hometown. You can check out the code &lt;a href=&quot;https://github.com/alisonmtague/ToyTown&quot;&gt;here&lt;/a&gt;.</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://alisontague.github.io/2015/01/12/project-4/</link>
+        <guid isPermaLink="true">https://alisontague.github.io/2015/01/12/project-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 3</title>
+        <description>VenuMenu is a collaborative project built on Rails that integrates the Songkick API. Users can log in with Twitter and search a Venue by name. The venues in the US associated with the search criteria will display along with their respective homepages (if available). Users can then comment on their desired venue. My main role in the group was integrating the API. You can visit the app  &lt;a href=&quot;http://venu-menu.herokuapp.com/&quot;&gt;here&lt;/a&gt; and check out the code &lt;a href=&quot;https://github.com/alisonmtague/VenuMenu&quot;&gt;here&lt;/a&gt;.</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://alisontague.github.io/2015/01/12/project-3/</link>
+        <guid isPermaLink="true">https://alisontague.github.io/2015/01/12/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 2</title>
+        <description>Drizzly integrates the weather underground API into a Rails app. Users sign in and are taken to a page with their current location&#39;s weather and ten day forecast. They can search other cities to see the same information and save cities to their favorites for quick access. This app was a two day group effort where my main role was styling. You can visit the app  &lt;a href=&quot;https://drizzly.herokuapp.com/accounts/sign_in&quot;&gt;here&lt;/a&gt; and check out the code &lt;a href=&quot;https://github.com/alisonmtague/drizzly&quot;&gt;here&lt;/a&gt;.</description>
+        <pubDate>Mon, 12 Jan 2015 00:00:00 -0500</pubDate>
+        <link>https://alisontague.github.io/2015/01/12/project-2/</link>
+        <guid isPermaLink="true">https://alisontague.github.io/2015/01/12/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 1</title>
+        <description>Venyou is a user driven app where users who are not familiar with Boston can post their favorite artists and find venues in the area that match their music preferences through fellow user recommendations. This was my first app built using Sinatra! Check it out &lt;a href=&quot;https://github.com/alisonmtague/PROJECTONE&quot;&gt;here&lt;/a&gt;.</description>
+        <pubDate>Fri, 19 Dec 2014 00:00:00 -0500</pubDate>
+        <link>https://alisontague.github.io/2014/12/19/project-1/</link>
+        <guid isPermaLink="true">https://alisontague.github.io/2014/12/19/project-1/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

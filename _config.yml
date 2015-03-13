@@ -1,0 +1,46 @@
+# Site settings
+title: Alison Tague
+email: alisonmtague@gmail.com
+url: https://alisontague.github.io
+description: "Hi, I'm Alison Tague, a full-stack web developer. This is my portfolio with past projects I've worked on and a little bit about me."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: #Dr. Henry Jekyll
+  # location: Location
+  # social: Around the Web
+  # credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/alisontague
+  - title: linkedin
+    url: http://linkedin.com/in/alisontague
+  - title: codepen
+    url: http://codepen.io/alisontague/
+  - title: soundcloud
+    url: https://soundcloud.com/alisonmtague
+  - title: github
+    url: http://github.com/alisonmtague
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1210 Massachussetts Ave NW
+  - line: Washington, DC 20005
+
+# Credits content
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

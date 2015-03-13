@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2015-01-12
+img: venumenu.png
+alt: image-alt
+project-date: January 2015
+description: VenuMenu is a collaborative project built on Rails that integrates the Songkick API. Users can log in with Twitter and search a Venue by name. The venues in the US associated with the search criteria will display along with their respective homepages (if available). Users can then comment on their desired venue. My main role in the group was integrating the API. You can visit the app  <a href="http://venu-menu.herokuapp.com/">here</a> and check out the code <a href="https://github.com/alisonmtague/VenuMenu">here</a>.
+
+
+---

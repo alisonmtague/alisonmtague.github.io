@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-12-19
+img: venyou.png
+alt: image-alt
+project-date: December 2014
+description: Venyou is a user driven app where users who are not familiar with Boston can post their favorite artists and find venues in the area that match their music preferences through fellow user recommendations. This was my first app built using Sinatra! Check it out <a href="https://github.com/alisonmtague/PROJECTONE">here</a>.
+
+
+---

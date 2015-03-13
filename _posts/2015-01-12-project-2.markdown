@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2015-01-12
+img: drizzly.png
+alt: image-alt
+project-date: January 2015
+description: Drizzly integrates the weather underground API into a Rails app. Users sign in and are taken to a page with their current location's weather and ten day forecast. They can search other cities to see the same information and save cities to their favorites for quick access. This app was a two day group effort where my main role was styling. You can visit the app  <a href="https://drizzly.herokuapp.com/accounts/sign_in">here</a> and check out the code <a href="https://github.com/alisonmtague/drizzly">here</a>.
+
+
+---
